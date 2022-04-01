@@ -1,6 +1,6 @@
 # cards-sources-js
 
-*Красивый плагин раскрывающихся карточек. Оптимальный вариант для предложения различных товаров. Посмотреть можно <code>[здесь.](https://vladimirmakarof.github.io/cards-sources-js/ "github page")
+*Красивый плагин раскрывающихся карточек. Оптимальный вариант для предложения различных товаров. Посмотреть можно <code>[здесь.](https://vladimirmakarof.github.io/JS-cards-sources/ "github page")
 </code>*
 
 
